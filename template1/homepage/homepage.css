@@ -1,0 +1,11 @@
+* {
+  font-family: "Poppins", "Times New Roman", "Arial";
+}
+
+#main {
+  color: #fff;
+  background-color: #3e3e3e;
+  min-height: calc(100vh - 54px - 90px); /* 100vh - header height - footer height */
+  border: 2px solid #fff;
+  border-bottom: 0;
+}

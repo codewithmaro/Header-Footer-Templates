@@ -1,0 +1,46 @@
+#feedback-div {
+  background-color: #3e3e3e;
+  min-height: calc(100vh - 54px - 92px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #fff;
+  border-bottom: 0;
+}
+
+#feedback-div p {
+  color: white;
+}
+
+#feedback-input {
+  margin-top: 10px;
+  resize: none;
+}
+
+#characters-left-para {
+  visibility: hidden;
+  font-size: small;
+}
+
+#submit-button {
+  background-color: rgb(0, 218, 0);
+  margin-top: 10px;
+  padding: 7px 30px;
+  border-radius: 20px;
+  border: none;
+  font-weight: bold;
+}
+
+#submit-button:hover {
+  background-color: #0f0;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+#success-message {
+  visibility: hidden;
+  color: chartreuse;
+  font-size: larger;
+  margin-top: 30px;
+}
