@@ -9,6 +9,6 @@
     on my <a href="https://www.instagram.com/coding_with_maro/?utm_medium=copy_link" target="_blank">Instagram Account</a> 
     to get more knowledge about reusing HTML components which is used in this.</p>
   
-  <p>This is the <a href="https://kit.fontawesome.com/23538a4f23.js" target="_blank">FontAwesome kit</a> used in project to render icons in the template. The code for this is present <a href="https://github.com/codewithmaro/ReusingHTMLCodeUsingJS" target="_blank">here</a>.</p>
+  <p>This is the <a href="https://kit.fontawesome.com/23538a4f23.js" target="_blank">FontAwesome kit link</a> used in project to render icons in the template. The code for this is present <a href="https://github.com/codewithmaro/ReusingHTMLCodeUsingJS" target="_blank">here</a>.</p>
   <p>Also visit our <a href="https://linktr.ee/codewithmaro" target="_blank">LinkeTree</a> for more knowledge</p>
 </html>
